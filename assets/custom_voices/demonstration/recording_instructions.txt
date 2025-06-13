@@ -5,4 +5,4 @@
 4. Avoid silence after the last word.
 
 Supported formats: mp3, wav, m4a.
-PS: Recording with a modern smart phone (iphone or android) is perfect. 
+Easy setup: Your smartphone (iPhone/Android) works perfectly!
