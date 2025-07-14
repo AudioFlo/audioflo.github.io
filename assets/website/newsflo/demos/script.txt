@@ -1,0 +1,143 @@
+0:05
+Good morning.
+
+0:06
+Welcome to today's audio flow newsletter.
+
+0:08
+We have got 3 major AI stories that are reshaping the tech landscape as we speak.
+
+0:14
+First, Oracle just revealed that OpenAI is behind their record breaking $30 billion annual cloud deal, one of the largest tech contracts in history.
+
+0:25
+Meanwhile, former Open AI executive Mira Murati just raised $2 billion for her new AI company as overall AI funding hit $80 billion this quarter alone.
+
+0:37
+On the research front, Google's DeepMind is making a bold leap from protein folding to cracking the genetic code itself with their new alpha genome model.
+
+0:45
+These aren't just big numbers and fancy names.
+
+0:47
+These developments are setting the stage for an AI transformation that will touch every industry, including yours.
+
+0:53
+So grab your coffee and let's dive into what these deals really mean for the future of technology.
+
+1:05
+Let's start with the biggest deal of the day.
+
+1:07
+Oracle just dropped some major details about their record breaking cloud contract.
+
+1:11
+Multiple news outlets confirmed this week that the eye-popping contract Oracle announced earlier belongs to the artificial intelligence company OpenAI.
+
+1:21
+Now, we already knew these two companies were working together on massive data center projects, including the Stargate projects in Texas and the UAE.
+
+1:29
+But the financial implications for Oracle weren't clear until now.
+
+1:33
+According to the Financial Times, the deal specifically involves OpenAI and Stargate with additional data centers being considered across various states, places like Michigan, Wisconsin, and New Mexico.
+
+1:45
+Data Center Dynamics reports that OpenAI will be leasing about 4.5 gigawatts of capacity from Oracle.
+
+1:52
+Bloomberg says the deal also includes expanding the existing Abilene, Texas Data Center campus to 2 gigawatts.
+
+1:59
+Here's the thing though, this contract won't actually hit Oracle's books until 2028, but Oracle's growth right now is being fueled by an extensive pipeline of other customers all waiting for compute capacity.
+
+2:11
+There's more demand than the company can keep up with.
+
+2:13
+CEO Sara Katz said recently that Oracle's pipeline of committed projects is expected to grow by more than 100% in fiscal 2026.
+
+2:23
+She said this is a situation that we have not seen in our history.
+
+2:26
+The numbers themselves are so enormous.
+
+2:35
+Former OpenAI executive Meera Moratti just made some serious waves with her new company.
+
+2:40
+Her venture called Thinking Machines Lab just closed a $2 billion funding round at a $10 billion valuation.
+
+2:47
+The company is focused on developing what's called agentic AI, basically AI systems that can reason, plan, and operate autonomously.
+
+2:55
+But Marrati's deal is just part of a much bigger picture.
+
+2:58
+The first quarter of 2025 saw VC backed companies raise over $80 billion.
+
+3:04
+That's nearly a 30% jump from the previous quarter.
+
+3:08
+And get this, a single $40 billion AI deal was driving much of that investment activity.
+
+3:14
+Here's what really stands out.
+
+3:16
+AI companies are now responsible for over 70% of all venture capital activity.
+
+3:21
+And according to industry experts, this trend shows no signs of slowing down anytime soon.
+
+3:33
+And now for some breakthrough science news from Google's DeepMind.
+
+3:37
+You might remember DeepMind for their game-changing protein folding model called Alpha Fold.
+
+3:42
+Well, now they're tackling an even more complex challenge, predicting how genes are regulated directly from DNA sequences.
+
+3:49
+The company just announced their latest model called Alpha Genome in a new research paper and blog post.
+
+3:54
+This represents an early but significant step toward potential therapeutic breakthroughs.
+
+4:00
+Now, here's what makes this particularly challenging.
+
+4:03
+Research engineer Natasha Latiheva points out that unlike protein structure prediction, genomics is a much more ambiguous field.
+
+4:11
+There's no single way to measure success, which makes the problem incredibly complex.
+
+4:16
+Because of this complexity, DeepMind is taking a multi-pronged approach, pursuing multiple different metrics as they work to crack the code of gene regulation.
+
+4:24
+If they succeed, this could open up entirely new possibilities for drug development and personalized medicine.
+
+4:37
+That wraps up today's audio flow newsletter.
+
+4:39
+What we're witnessing isn't just another tech cycle, it's the foundation being laid for the next decade of AI innovation.
+
+4:47
+Oracle's massive infrastructure bet, record breaking funding rounds, and breakthrough research are all pointing in the same direction.
+
+4:54
+AI is about to get a lot more powerful and a lot more present in our daily lives.
+
+4:58
+The companies making these moves today will be the one shaping tomorrow's technology landscape.
+
+5:03
+Thanks for listening and we'll see you next time with more stories that matter.
